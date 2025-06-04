@@ -3,8 +3,8 @@ from discord.ext import commands, tasks
 import asyncio
 
 # 🔐 Fill in your actual details here
-TOKEN = "MTE3ODc0NjYxMjkzNDkwMTg0MC5ZbXp1jEzFe3JjU6mDqzVG9PtOY4bOB5H5"  # 🔁 Use your NEW bot token here
-CHANNEL_ID = 123456789012345678  # 🔁 Replace with your actual Discord channel ID
+TOKEN = "3e5d581ccf5e909f37d3306a54dde74dbbe34b00711bff046d7c3ed858feb437"  # 🔁 Use your NEW bot token here
+CHANNEL_ID = 1378746612934901840 # 🔁 Replace with your actual Discord channel ID
 
 intents = discord.Intents.default()
 intents.message_content = True
